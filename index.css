@@ -1,0 +1,98 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+@media(min-width:320px){
+.col-1{
+    width: 8.33%;
+}
+.col-2{
+    width: 16.66%;
+}
+.col-3{
+    width: 25%;
+}
+.col-4{
+    width: 33.33%;
+}
+.col-5{
+    width: 41.65%;
+}
+.col-6{
+    width: 50%;
+}
+.col-7{
+    width: 58.33%;
+}
+.col-8{
+    width: 66.64%;
+}
+.col-9{
+    width: 75%;
+}
+.col-10{
+    width: 83.30%;
+}
+.col-11{
+    width: 91.63%;
+}
+.col-12{
+    width: 100%;
+}
+
+
+}
+@media(min-width:768px){
+.col-md-1{
+    width: 8.33%;
+}
+.col-md-2{
+    width: 16.66%;
+}
+.col-md-3{
+    width: 25%;
+}
+.col-md-4{
+    width: 33.33%;
+}
+.col-md-5{
+    width: 41.65%;
+}
+.col-md-6{
+    width: 50%;
+}
+.col-md-7{
+    width: 58.33%;
+}
+.col-md-8{
+    width: 66.64%;
+}
+.col-md-9{
+    width: 75%;
+}
+.col-md-10{
+    width: 83.30%;
+}
+.col-md-11{
+    width: 91.63%;
+}
+.col-md-12{
+    width: 100%;
+}
+}
+.profile-text{
+    text-align: center;
+    position: relative;
+    top: 15px;
+}
+.profile-image1 img{
+    width: 65%;
+}
+.form p{
+    font-size: 5px;
+}
